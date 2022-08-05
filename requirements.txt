@@ -1,0 +1,5 @@
+
+matplotlib==3.4.3  #graph
+numpy==1.19.5     #matroce
+opencv-contrib-python==4.5.3.56 #traitement image
+Pillow==7.0.0 #manipulation image (basic)
